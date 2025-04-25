@@ -1,5 +1,7 @@
-# FlexAdmin - Tailwind CSS 3 Admin Layout & UI Kit Template
+# Riysat Colllege Tailwind CSS 3 Admin Layout & UI Kit Template
 We would like to thank you for purchasing FlexAdmin :). The following guideline will help you to get started with the hyper and its documentation.
+
+# Subscribe to my YouTube channel for more Tailwind CSS tutorials. Don't forget to like, share, and leave a comment if you encounter any issues or have questions
 
 #### Docs and Examples
 
